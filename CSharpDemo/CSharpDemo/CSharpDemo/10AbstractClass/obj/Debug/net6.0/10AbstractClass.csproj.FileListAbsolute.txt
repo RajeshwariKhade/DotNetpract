@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\10AbstractClass\bin\Debug\net6.0\10AbstractClass.exe
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\10AbstractClass\bin\Debug\net6.0\10AbstractClass.deps.json
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\10AbstractClass\bin\Debug\net6.0\10AbstractClass.runtimeconfig.json
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\10AbstractClass\bin\Debug\net6.0\10AbstractClass.dll
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\10AbstractClass\bin\Debug\net6.0\10AbstractClass.pdb
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\10AbstractClass\obj\Debug\net6.0\10AbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\10AbstractClass\obj\Debug\net6.0\10AbstractClass.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\10AbstractClass\obj\Debug\net6.0\10AbstractClass.AssemblyInfo.cs
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\10AbstractClass\obj\Debug\net6.0\10AbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\10AbstractClass\obj\Debug\net6.0\10AbstractClass.dll
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\10AbstractClass\obj\Debug\net6.0\refint\10AbstractClass.dll
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\10AbstractClass\obj\Debug\net6.0\10AbstractClass.pdb
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\10AbstractClass\obj\Debug\net6.0\10AbstractClass.genruntimeconfig.cache
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\10AbstractClass\obj\Debug\net6.0\ref\10AbstractClass.dll

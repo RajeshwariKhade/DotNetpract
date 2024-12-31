@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\13CollectionDemo\obj\Debug\net6.0\13CollectionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\13CollectionDemo\obj\Debug\net6.0\13CollectionDemo.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\13CollectionDemo\obj\Debug\net6.0\13CollectionDemo.AssemblyInfo.cs
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\13CollectionDemo\obj\Debug\net6.0\13CollectionDemo.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\13CollectionDemo\bin\Debug\net6.0\13CollectionDemo.exe
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\13CollectionDemo\bin\Debug\net6.0\13CollectionDemo.deps.json
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\13CollectionDemo\bin\Debug\net6.0\13CollectionDemo.runtimeconfig.json
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\13CollectionDemo\bin\Debug\net6.0\13CollectionDemo.dll
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\13CollectionDemo\bin\Debug\net6.0\13CollectionDemo.pdb
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\13CollectionDemo\obj\Debug\net6.0\13CollectionDemo.dll
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\13CollectionDemo\obj\Debug\net6.0\refint\13CollectionDemo.dll
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\13CollectionDemo\obj\Debug\net6.0\13CollectionDemo.pdb
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\13CollectionDemo\obj\Debug\net6.0\13CollectionDemo.genruntimeconfig.cache
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\13CollectionDemo\obj\Debug\net6.0\ref\13CollectionDemo.dll

@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\08Interface\bin\Debug\net6.0\08Interface.exe
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\08Interface\bin\Debug\net6.0\08Interface.deps.json
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\08Interface\bin\Debug\net6.0\08Interface.runtimeconfig.json
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\08Interface\bin\Debug\net6.0\08Interface.dll
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\08Interface\bin\Debug\net6.0\08Interface.pdb
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\08Interface\obj\Debug\net6.0\08Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\08Interface\obj\Debug\net6.0\08Interface.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\08Interface\obj\Debug\net6.0\08Interface.AssemblyInfo.cs
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\08Interface\obj\Debug\net6.0\08Interface.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\08Interface\obj\Debug\net6.0\08Interface.dll
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\08Interface\obj\Debug\net6.0\refint\08Interface.dll
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\08Interface\obj\Debug\net6.0\08Interface.pdb
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\08Interface\obj\Debug\net6.0\08Interface.genruntimeconfig.cache
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\08Interface\obj\Debug\net6.0\ref\08Interface.dll

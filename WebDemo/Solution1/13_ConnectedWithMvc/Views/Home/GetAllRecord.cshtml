@@ -1,0 +1,14 @@
+﻿@model IEnumerable<_13ConnectedWithMvc.Model.Emp>;
+@{
+    ViewData["Title"] = "GetAllRecord";
+}
+
+<h1>GetAllRecord</h1>
+@foreach(var emp in Model)
+{
+    <h1>@emp.Id</h1>
+    <h2>@emp.Name</h2>
+    <h1>@emp.Address</h1>
+
+}
+

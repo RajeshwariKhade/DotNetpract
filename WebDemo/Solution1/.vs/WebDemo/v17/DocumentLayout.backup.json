@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IET\\Desktop\\67 \u0026 49\\.NET\\WebDemo\\Solution1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31F11EEC-3F36-473F-B072-4F5D3E1C5808}|11StudentMVCDemo\\11StudentMVCDemo.csproj|c:\\users\\iet\\desktop\\67 \u0026 49\\.net\\webdemo\\solution1\\11studentmvcdemo\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F11EEC-3F36-473F-B072-4F5D3E1C5808}|11StudentMVCDemo\\11StudentMVCDemo.csproj|solutionrelative:11studentmvcdemo\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F11EEC-3F36-473F-B072-4F5D3E1C5808}|11StudentMVCDemo\\11StudentMVCDemo.csproj|c:\\users\\iet\\desktop\\67 \u0026 49\\.net\\webdemo\\solution1\\11studentmvcdemo\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31F11EEC-3F36-473F-B072-4F5D3E1C5808}|11StudentMVCDemo\\11StudentMVCDemo.csproj|solutionrelative:11studentmvcdemo\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F11EEC-3F36-473F-B072-4F5D3E1C5808}|11StudentMVCDemo\\11StudentMVCDemo.csproj|c:\\users\\iet\\desktop\\67 \u0026 49\\.net\\webdemo\\solution1\\11studentmvcdemo\\models\\studentaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F11EEC-3F36-473F-B072-4F5D3E1C5808}|11StudentMVCDemo\\11StudentMVCDemo.csproj|solutionrelative:11studentmvcdemo\\models\\studentaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F11EEC-3F36-473F-B072-4F5D3E1C5808}|11StudentMVCDemo\\11StudentMVCDemo.csproj|c:\\users\\iet\\desktop\\67 \u0026 49\\.net\\webdemo\\solution1\\11studentmvcdemo\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31F11EEC-3F36-473F-B072-4F5D3E1C5808}|11StudentMVCDemo\\11StudentMVCDemo.csproj|solutionrelative:11studentmvcdemo\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F11EEC-3F36-473F-B072-4F5D3E1C5808}|11StudentMVCDemo\\11StudentMVCDemo.csproj|c:\\users\\iet\\desktop\\67 \u0026 49\\.net\\webdemo\\solution1\\11studentmvcdemo\\views\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31F11EEC-3F36-473F-B072-4F5D3E1C5808}|11StudentMVCDemo\\11StudentMVCDemo.csproj|solutionrelative:11studentmvcdemo\\views\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F11EEC-3F36-473F-B072-4F5D3E1C5808}|11StudentMVCDemo\\11StudentMVCDemo.csproj|c:\\users\\iet\\desktop\\67 \u0026 49\\.net\\webdemo\\solution1\\11studentmvcdemo\\views\\students\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31F11EEC-3F36-473F-B072-4F5D3E1C5808}|11StudentMVCDemo\\11StudentMVCDemo.csproj|solutionrelative:11studentmvcdemo\\views\\students\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F11EEC-3F36-473F-B072-4F5D3E1C5808}|11StudentMVCDemo\\11StudentMVCDemo.csproj|c:\\users\\iet\\desktop\\67 \u0026 49\\.net\\webdemo\\solution1\\11studentmvcdemo\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31F11EEC-3F36-473F-B072-4F5D3E1C5808}|11StudentMVCDemo\\11StudentMVCDemo.csproj|solutionrelative:11studentmvcdemo\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F11EEC-3F36-473F-B072-4F5D3E1C5808}|11StudentMVCDemo\\11StudentMVCDemo.csproj|c:\\users\\iet\\desktop\\67 \u0026 49\\.net\\webdemo\\solution1\\11studentmvcdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F11EEC-3F36-473F-B072-4F5D3E1C5808}|11StudentMVCDemo\\11StudentMVCDemo.csproj|solutionrelative:11studentmvcdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\67 \u0026 49\\.NET\\WebDemo\\Solution1\\11StudentMVCDemo\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "11StudentMVCDemo\\Views\\Students\\Index.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\67 \u0026 49\\.NET\\WebDemo\\Solution1\\11StudentMVCDemo\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "11StudentMVCDemo\\Views\\Students\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T05:27:13.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\67 \u0026 49\\.NET\\WebDemo\\Solution1\\11StudentMVCDemo\\Views\\Students\\Edit.cshtml",
+              "RelativeDocumentMoniker": "11StudentMVCDemo\\Views\\Students\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\67 \u0026 49\\.NET\\WebDemo\\Solution1\\11StudentMVCDemo\\Views\\Students\\Edit.cshtml",
+              "RelativeToolTip": "11StudentMVCDemo\\Views\\Students\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T05:27:12.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\67 \u0026 49\\.NET\\WebDemo\\Solution1\\11StudentMVCDemo\\Views\\Students\\Details.cshtml",
+              "RelativeDocumentMoniker": "11StudentMVCDemo\\Views\\Students\\Details.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\67 \u0026 49\\.NET\\WebDemo\\Solution1\\11StudentMVCDemo\\Views\\Students\\Details.cshtml",
+              "RelativeToolTip": "11StudentMVCDemo\\Views\\Students\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T05:27:10.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\67 \u0026 49\\.NET\\WebDemo\\Solution1\\11StudentMVCDemo\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "11StudentMVCDemo\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\67 \u0026 49\\.NET\\WebDemo\\Solution1\\11StudentMVCDemo\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "11StudentMVCDemo\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwBkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T05:26:30.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentAddress.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\67 \u0026 49\\.NET\\WebDemo\\Solution1\\11StudentMVCDemo\\Models\\StudentAddress.cs",
+              "RelativeDocumentMoniker": "11StudentMVCDemo\\Models\\StudentAddress.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\67 \u0026 49\\.NET\\WebDemo\\Solution1\\11StudentMVCDemo\\Models\\StudentAddress.cs",
+              "RelativeToolTip": "11StudentMVCDemo\\Models\\StudentAddress.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T05:29:40.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\67 \u0026 49\\.NET\\WebDemo\\Solution1\\11StudentMVCDemo\\Views\\Students\\Delete.cshtml",
+              "RelativeDocumentMoniker": "11StudentMVCDemo\\Views\\Students\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\67 \u0026 49\\.NET\\WebDemo\\Solution1\\11StudentMVCDemo\\Views\\Students\\Delete.cshtml",
+              "RelativeToolTip": "11StudentMVCDemo\\Views\\Students\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T05:27:08.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\67 \u0026 49\\.NET\\WebDemo\\Solution1\\11StudentMVCDemo\\Views\\Students\\Create.cshtml",
+              "RelativeDocumentMoniker": "11StudentMVCDemo\\Views\\Students\\Create.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\67 \u0026 49\\.NET\\WebDemo\\Solution1\\11StudentMVCDemo\\Views\\Students\\Create.cshtml",
+              "RelativeToolTip": "11StudentMVCDemo\\Views\\Students\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T05:27:07.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\67 \u0026 49\\.NET\\WebDemo\\Solution1\\11StudentMVCDemo\\Program.cs",
+              "RelativeDocumentMoniker": "11StudentMVCDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\67 \u0026 49\\.NET\\WebDemo\\Solution1\\11StudentMVCDemo\\Program.cs",
+              "RelativeToolTip": "11StudentMVCDemo\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T05:26:49.843Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+﻿@model IEnumerable<_08ParsalView.Model.Product>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Product Details</h1>
+
+@foreach(var product in @Model){
+    @Html.Partial("_ProductListPartialView",product);
+}

@@ -1,0 +1,11 @@
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\23class\bin\Debug\net6.0\23class.deps.json
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\23class\bin\Debug\net6.0\23class.dll
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\23class\bin\Debug\net6.0\23class.pdb
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\23class\obj\Debug\net6.0\23class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\23class\obj\Debug\net6.0\23class.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\23class\obj\Debug\net6.0\23class.AssemblyInfo.cs
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\23class\obj\Debug\net6.0\23class.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\23class\obj\Debug\net6.0\23class.dll
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\23class\obj\Debug\net6.0\refint\23class.dll
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\23class\obj\Debug\net6.0\23class.pdb
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\23class\obj\Debug\net6.0\ref\23class.dll

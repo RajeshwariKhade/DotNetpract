@@ -1,0 +1,42 @@
+﻿@model _10DemoAPI.Models.Student
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Student</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Namefirst)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Namefirst)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Namelast)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Namelast)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Dob)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Dob)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.EmailId)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.EmailId)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

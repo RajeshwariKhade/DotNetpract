@@ -1,0 +1,11 @@
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\16AccessModifier1\bin\Debug\net6.0\16AccessModifier.deps.json
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\16AccessModifier1\bin\Debug\net6.0\16AccessModifier.dll
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\16AccessModifier1\bin\Debug\net6.0\16AccessModifier.pdb
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\16AccessModifier1\obj\Debug\net6.0\16AccessModifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\16AccessModifier1\obj\Debug\net6.0\16AccessModifier.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\16AccessModifier1\obj\Debug\net6.0\16AccessModifier.AssemblyInfo.cs
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\16AccessModifier1\obj\Debug\net6.0\16AccessModifier.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\16AccessModifier1\obj\Debug\net6.0\16AccessModifier.dll
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\16AccessModifier1\obj\Debug\net6.0\refint\16AccessModifier.dll
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\16AccessModifier1\obj\Debug\net6.0\16AccessModifier.pdb
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\16AccessModifier1\obj\Debug\net6.0\ref\16AccessModifier.dll

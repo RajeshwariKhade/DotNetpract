@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "aaKQdSg9S1kGdyE1Av+l4lKMMSsnchsSf3iAeukzj98=",
+  "Source": "06ModelViews",
+  "BasePath": "_content/06ModelViews",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "06ModelViews\\wwwroot",
+      "Source": "06ModelViews",
+      "ContentRoot": "C:\\Users\\IET\\Desktop\\67 & 49\\.NET\\WebDemo\\Solution1\\06ModelViews\\wwwroot\\",
+      "BasePath": "_content/06ModelViews",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\IET\\Desktop\\67 & 49\\.NET\\WebDemo\\Solution1\\06ModelViews\\wwwroot\\Images\\Bickist.jpg",
+      "SourceId": "06ModelViews",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\IET\\Desktop\\67 & 49\\.NET\\WebDemo\\Solution1\\06ModelViews\\wwwroot\\",
+      "BasePath": "_content/06ModelViews",
+      "RelativePath": "Images/Bickist#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "azvtab5yqg",
+      "Integrity": "Jm3kJ+H5UiNG/das4cRlM31KYIoPhvlNFvbir6lkTbA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Bickist.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Images/Bickist.azvtab5yqg.jpg",
+      "AssetFile": "C:\\Users\\IET\\Desktop\\67 & 49\\.NET\\WebDemo\\Solution1\\06ModelViews\\wwwroot\\Images\\Bickist.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8825"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jm3kJ+H5UiNG/das4cRlM31KYIoPhvlNFvbir6lkTbA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 27 Dec 2024 12:16:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "azvtab5yqg"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Bickist.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jm3kJ+H5UiNG/das4cRlM31KYIoPhvlNFvbir6lkTbA="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Bickist.jpg",
+      "AssetFile": "C:\\Users\\IET\\Desktop\\67 & 49\\.NET\\WebDemo\\Solution1\\06ModelViews\\wwwroot\\Images\\Bickist.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8825"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jm3kJ+H5UiNG/das4cRlM31KYIoPhvlNFvbir6lkTbA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 27 Dec 2024 12:16:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jm3kJ+H5UiNG/das4cRlM31KYIoPhvlNFvbir6lkTbA="
+        }
+      ]
+    }
+  ]
+}

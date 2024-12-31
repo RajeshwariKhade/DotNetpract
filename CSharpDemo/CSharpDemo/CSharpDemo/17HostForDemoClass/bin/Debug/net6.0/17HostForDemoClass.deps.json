@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "17HostForDemoClass/1.0.0": {
+        "dependencies": {
+          "16AccessModifier": "1.0.0"
+        },
+        "runtime": {
+          "17HostForDemoClass.dll": {}
+        }
+      },
+      "16AccessModifier/1.0.0": {
+        "runtime": {
+          "16AccessModifier.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "17HostForDemoClass/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "16AccessModifier/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

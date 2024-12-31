@@ -1,0 +1,10 @@
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\38ThreadingWindowsFormsDemo\bin\Debug\38ThreadingWindowsFormsDemo.exe.config
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\38ThreadingWindowsFormsDemo\bin\Debug\38ThreadingWindowsFormsDemo.exe
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\38ThreadingWindowsFormsDemo\bin\Debug\38ThreadingWindowsFormsDemo.pdb
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\38ThreadingWindowsFormsDemo\obj\Debug\38ThreadingWindowsFormsDemo.csproj.AssemblyReference.cache
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\38ThreadingWindowsFormsDemo\obj\Debug\_38ThreadingWindowsFormsDemo.Form1.resources
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\38ThreadingWindowsFormsDemo\obj\Debug\_38ThreadingWindowsFormsDemo.Properties.Resources.resources
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\38ThreadingWindowsFormsDemo\obj\Debug\38ThreadingWindowsFormsDemo.csproj.GenerateResource.cache
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\38ThreadingWindowsFormsDemo\obj\Debug\38ThreadingWindowsFormsDemo.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\38ThreadingWindowsFormsDemo\obj\Debug\38ThreadingWindowsFormsDemo.exe
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\38ThreadingWindowsFormsDemo\obj\Debug\38ThreadingWindowsFormsDemo.pdb

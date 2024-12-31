@@ -1,0 +1,4 @@
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\23Mathlib\obj\Debug\net6.0\23Mathlib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\23Mathlib\obj\Debug\net6.0\23Mathlib.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\23Mathlib\obj\Debug\net6.0\23Mathlib.AssemblyInfo.cs
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\23Mathlib\obj\Debug\net6.0\23Mathlib.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\14PassByAndOutDemo\bin\Debug\net6.0\14PassByAndOutDemo.exe
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\14PassByAndOutDemo\bin\Debug\net6.0\14PassByAndOutDemo.deps.json
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\14PassByAndOutDemo\bin\Debug\net6.0\14PassByAndOutDemo.runtimeconfig.json
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\14PassByAndOutDemo\bin\Debug\net6.0\14PassByAndOutDemo.dll
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\14PassByAndOutDemo\bin\Debug\net6.0\14PassByAndOutDemo.pdb
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\14PassByAndOutDemo\obj\Debug\net6.0\14PassByAndOutDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\14PassByAndOutDemo\obj\Debug\net6.0\14PassByAndOutDemo.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\14PassByAndOutDemo\obj\Debug\net6.0\14PassByAndOutDemo.AssemblyInfo.cs
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\14PassByAndOutDemo\obj\Debug\net6.0\14PassByAndOutDemo.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\14PassByAndOutDemo\obj\Debug\net6.0\14PassByAndOutDemo.dll
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\14PassByAndOutDemo\obj\Debug\net6.0\refint\14PassByAndOutDemo.dll
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\14PassByAndOutDemo\obj\Debug\net6.0\14PassByAndOutDemo.pdb
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\14PassByAndOutDemo\obj\Debug\net6.0\14PassByAndOutDemo.genruntimeconfig.cache
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\14PassByAndOutDemo\obj\Debug\net6.0\ref\14PassByAndOutDemo.dll

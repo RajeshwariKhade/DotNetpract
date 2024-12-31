@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\39ThreadingDemo\bin\Debug\net6.0\39ThreadingDemo.exe
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\39ThreadingDemo\bin\Debug\net6.0\39ThreadingDemo.deps.json
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\39ThreadingDemo\bin\Debug\net6.0\39ThreadingDemo.runtimeconfig.json
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\39ThreadingDemo\bin\Debug\net6.0\39ThreadingDemo.dll
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\39ThreadingDemo\bin\Debug\net6.0\39ThreadingDemo.pdb
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\39ThreadingDemo\obj\Debug\net6.0\39ThreadingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\39ThreadingDemo\obj\Debug\net6.0\39ThreadingDemo.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\39ThreadingDemo\obj\Debug\net6.0\39ThreadingDemo.AssemblyInfo.cs
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\39ThreadingDemo\obj\Debug\net6.0\39ThreadingDemo.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\39ThreadingDemo\obj\Debug\net6.0\39ThreadingDemo.dll
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\39ThreadingDemo\obj\Debug\net6.0\refint\39ThreadingDemo.dll
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\39ThreadingDemo\obj\Debug\net6.0\39ThreadingDemo.pdb
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\39ThreadingDemo\obj\Debug\net6.0\39ThreadingDemo.genruntimeconfig.cache
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\39ThreadingDemo\obj\Debug\net6.0\ref\39ThreadingDemo.dll

@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\15GenericsDemo\bin\Debug\net6.0\15GenericsDemo.exe
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\15GenericsDemo\bin\Debug\net6.0\15GenericsDemo.deps.json
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\15GenericsDemo\bin\Debug\net6.0\15GenericsDemo.runtimeconfig.json
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\15GenericsDemo\bin\Debug\net6.0\15GenericsDemo.dll
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\15GenericsDemo\bin\Debug\net6.0\15GenericsDemo.pdb
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\15GenericsDemo\obj\Debug\net6.0\15GenericsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\15GenericsDemo\obj\Debug\net6.0\15GenericsDemo.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\15GenericsDemo\obj\Debug\net6.0\15GenericsDemo.AssemblyInfo.cs
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\15GenericsDemo\obj\Debug\net6.0\15GenericsDemo.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\15GenericsDemo\obj\Debug\net6.0\15GenericsDemo.dll
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\15GenericsDemo\obj\Debug\net6.0\refint\15GenericsDemo.dll
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\15GenericsDemo\obj\Debug\net6.0\15GenericsDemo.pdb
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\15GenericsDemo\obj\Debug\net6.0\15GenericsDemo.genruntimeconfig.cache
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\15GenericsDemo\obj\Debug\net6.0\ref\15GenericsDemo.dll

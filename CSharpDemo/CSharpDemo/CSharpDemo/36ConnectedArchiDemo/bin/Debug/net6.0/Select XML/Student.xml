@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <Id>1</Id>
+    <Name>riya      </Name>
+    <LastName>xyz       </LastName>
+    <Mark>89</Mark>
+    <Address>Microsoft.Data.SqlClient.SqlDataReader</Address>
+  </Table1>
+  <Table1>
+    <Id>2</Id>
+    <Name>siya      </Name>
+    <LastName>xyz       </LastName>
+    <Mark>78</Mark>
+    <Address>Microsoft.Data.SqlClient.SqlDataReader</Address>
+  </Table1>
+</NewDataSet>

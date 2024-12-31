@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\07GarbageCollector\bin\Debug\net6.0\07GarbageCollector.exe
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\07GarbageCollector\bin\Debug\net6.0\07GarbageCollector.deps.json
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\07GarbageCollector\bin\Debug\net6.0\07GarbageCollector.runtimeconfig.json
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\07GarbageCollector\bin\Debug\net6.0\07GarbageCollector.dll
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\07GarbageCollector\bin\Debug\net6.0\07GarbageCollector.pdb
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\07GarbageCollector\obj\Debug\net6.0\07GarbageCollector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\07GarbageCollector\obj\Debug\net6.0\07GarbageCollector.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\07GarbageCollector\obj\Debug\net6.0\07GarbageCollector.AssemblyInfo.cs
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\07GarbageCollector\obj\Debug\net6.0\07GarbageCollector.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\07GarbageCollector\obj\Debug\net6.0\07GarbageCollector.dll
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\07GarbageCollector\obj\Debug\net6.0\refint\07GarbageCollector.dll
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\07GarbageCollector\obj\Debug\net6.0\07GarbageCollector.pdb
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\07GarbageCollector\obj\Debug\net6.0\07GarbageCollector.genruntimeconfig.cache
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\07GarbageCollector\obj\Debug\net6.0\ref\07GarbageCollector.dll

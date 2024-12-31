@@ -1,0 +1,45 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = _10DemoAPI
+build_property.RootNamespace = _10DemoAPI
+build_property.ProjectDir = C:\Users\IET\Desktop\67 & 49\.NET\WebDemo\Solution1\10DemoAPI\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\IET\Desktop\67 & 49\.NET\WebDemo\Solution1\10DemoAPI
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 6.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/IET/Desktop/67 & 49/.NET/WebDemo/Solution1/10DemoAPI/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/IET/Desktop/67 & 49/.NET/WebDemo/Solution1/10DemoAPI/Views/Students1/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHMxXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/IET/Desktop/67 & 49/.NET/WebDemo/Solution1/10DemoAPI/Views/Students1/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHMxXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/IET/Desktop/67 & 49/.NET/WebDemo/Solution1/10DemoAPI/Views/Students1/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHMxXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/IET/Desktop/67 & 49/.NET/WebDemo/Solution1/10DemoAPI/Views/Students1/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHMxXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/IET/Desktop/67 & 49/.NET/WebDemo/Solution1/10DemoAPI/Views/Students1/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHMxXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 

@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IET\\Desktop\\67 \u0026 49\\.NET\\CSharpDemo\\CSharpDemo\\CSharpDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6A3D55-2802-4ECC-BA9E-2D89793CBA3D}|35DisconnectedArchiDemo\\35DisconnectedArchiDemo.csproj|c:\\users\\iet\\desktop\\67 \u0026 49\\.net\\csharpdemo\\csharpdemo\\csharpdemo\\35disconnectedarchidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6A3D55-2802-4ECC-BA9E-2D89793CBA3D}|35DisconnectedArchiDemo\\35DisconnectedArchiDemo.csproj|solutionrelative:35disconnectedarchidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6A3D55-2802-4ECC-BA9E-2D89793CBA3D}|35DisconnectedArchiDemo\\35DisconnectedArchiDemo.csproj|c:\\users\\iet\\desktop\\67 \u0026 49\\.net\\csharpdemo\\csharpdemo\\csharpdemo\\35disconnectedarchidemo\\35disconnectedarchidemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8B6A3D55-2802-4ECC-BA9E-2D89793CBA3D}|35DisconnectedArchiDemo\\35DisconnectedArchiDemo.csproj|solutionrelative:35disconnectedarchidemo\\35disconnectedarchidemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA177E5-6290-441E-BE03-EA8C7C809606}|36ConnectedArchiDemo\\36ConnectedArchiDemo.csproj|c:\\users\\iet\\desktop\\67 \u0026 49\\.net\\csharpdemo\\csharpdemo\\csharpdemo\\36connectedarchidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA177E5-6290-441E-BE03-EA8C7C809606}|36ConnectedArchiDemo\\36ConnectedArchiDemo.csproj|solutionrelative:36connectedarchidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DCED09D-3A8E-4787-B12D-52497A50F529}|37EntityFramework\\37EntityFramework.csproj|c:\\users\\iet\\desktop\\67 \u0026 49\\.net\\csharpdemo\\csharpdemo\\csharpdemo\\37entityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DCED09D-3A8E-4787-B12D-52497A50F529}|37EntityFramework\\37EntityFramework.csproj|solutionrelative:37entityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DCED09D-3A8E-4787-B12D-52497A50F529}|37EntityFramework\\37EntityFramework.csproj|c:\\users\\iet\\desktop\\67 \u0026 49\\.net\\csharpdemo\\csharpdemo\\csharpdemo\\37entityframework\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DCED09D-3A8E-4787-B12D-52497A50F529}|37EntityFramework\\37EntityFramework.csproj|solutionrelative:37entityframework\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DCED09D-3A8E-4787-B12D-52497A50F529}|37EntityFramework\\37EntityFramework.csproj|c:\\users\\iet\\desktop\\67 \u0026 49\\.net\\csharpdemo\\csharpdemo\\csharpdemo\\37entityframework\\dal\\demodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DCED09D-3A8E-4787-B12D-52497A50F529}|37EntityFramework\\37EntityFramework.csproj|solutionrelative:37entityframework\\dal\\demodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DCED09D-3A8E-4787-B12D-52497A50F529}|37EntityFramework\\37EntityFramework.csproj|c:\\users\\iet\\desktop\\67 \u0026 49\\.net\\csharpdemo\\csharpdemo\\csharpdemo\\37entityframework\\migrations\\20241223123712_employeemigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DCED09D-3A8E-4787-B12D-52497A50F529}|37EntityFramework\\37EntityFramework.csproj|solutionrelative:37entityframework\\migrations\\20241223123712_employeemigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DCED09D-3A8E-4787-B12D-52497A50F529}|37EntityFramework\\37EntityFramework.csproj|c:\\users\\iet\\desktop\\67 \u0026 49\\.net\\csharpdemo\\csharpdemo\\csharpdemo\\37entityframework\\migrations\\demodbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DCED09D-3A8E-4787-B12D-52497A50F529}|37EntityFramework\\37EntityFramework.csproj|solutionrelative:37entityframework\\migrations\\demodbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DCED09D-3A8E-4787-B12D-52497A50F529}|37EntityFramework\\37EntityFramework.csproj|c:\\users\\iet\\desktop\\67 \u0026 49\\.net\\csharpdemo\\csharpdemo\\csharpdemo\\37entityframework\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DCED09D-3A8E-4787-B12D-52497A50F529}|37EntityFramework\\37EntityFramework.csproj|solutionrelative:37entityframework\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F46D18-9879-4B62-8904-E5285EF88D2E}|39ThreadingDemo\\39ThreadingDemo.csproj|c:\\users\\iet\\desktop\\67 \u0026 49\\.net\\csharpdemo\\csharpdemo\\csharpdemo\\39threadingdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F46D18-9879-4B62-8904-E5285EF88D2E}|39ThreadingDemo\\39ThreadingDemo.csproj|solutionrelative:39threadingdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\67 \u0026 49\\.NET\\CSharpDemo\\CSharpDemo\\CSharpDemo\\35DisconnectedArchiDemo\\Program.cs",
+              "RelativeDocumentMoniker": "35DisconnectedArchiDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\67 \u0026 49\\.NET\\CSharpDemo\\CSharpDemo\\CSharpDemo\\35DisconnectedArchiDemo\\Program.cs",
+              "RelativeToolTip": "35DisconnectedArchiDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T11:26:35.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "35DisconnectedArchiDemo",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\67 \u0026 49\\.NET\\CSharpDemo\\CSharpDemo\\CSharpDemo\\35DisconnectedArchiDemo\\35DisconnectedArchiDemo.csproj",
+              "RelativeDocumentMoniker": "35DisconnectedArchiDemo\\35DisconnectedArchiDemo.csproj",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\67 \u0026 49\\.NET\\CSharpDemo\\CSharpDemo\\CSharpDemo\\35DisconnectedArchiDemo\\35DisconnectedArchiDemo.csproj",
+              "RelativeToolTip": "35DisconnectedArchiDemo\\35DisconnectedArchiDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-26T11:26:31.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\67 \u0026 49\\.NET\\CSharpDemo\\CSharpDemo\\CSharpDemo\\36ConnectedArchiDemo\\Program.cs",
+              "RelativeDocumentMoniker": "36ConnectedArchiDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\67 \u0026 49\\.NET\\CSharpDemo\\CSharpDemo\\CSharpDemo\\36ConnectedArchiDemo\\Program.cs",
+              "RelativeToolTip": "36ConnectedArchiDemo\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T11:25:23.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DemoDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\67 \u0026 49\\.NET\\CSharpDemo\\CSharpDemo\\CSharpDemo\\37EntityFramework\\DAL\\DemoDBContext.cs",
+              "RelativeDocumentMoniker": "37EntityFramework\\DAL\\DemoDBContext.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\67 \u0026 49\\.NET\\CSharpDemo\\CSharpDemo\\CSharpDemo\\37EntityFramework\\DAL\\DemoDBContext.cs",
+              "RelativeToolTip": "37EntityFramework\\DAL\\DemoDBContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T11:23:07.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20241223123712_EmployeeMigration.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\67 \u0026 49\\.NET\\CSharpDemo\\CSharpDemo\\CSharpDemo\\37EntityFramework\\Migrations\\20241223123712_EmployeeMigration.cs",
+              "RelativeDocumentMoniker": "37EntityFramework\\Migrations\\20241223123712_EmployeeMigration.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\67 \u0026 49\\.NET\\CSharpDemo\\CSharpDemo\\CSharpDemo\\37EntityFramework\\Migrations\\20241223123712_EmployeeMigration.cs",
+              "RelativeToolTip": "37EntityFramework\\Migrations\\20241223123712_EmployeeMigration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T11:09:39.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\67 \u0026 49\\.NET\\CSharpDemo\\CSharpDemo\\CSharpDemo\\37EntityFramework\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "37EntityFramework\\Model\\Employee.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\67 \u0026 49\\.NET\\CSharpDemo\\CSharpDemo\\CSharpDemo\\37EntityFramework\\Model\\Employee.cs",
+              "RelativeToolTip": "37EntityFramework\\Model\\Employee.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T11:09:14.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\67 \u0026 49\\.NET\\CSharpDemo\\CSharpDemo\\CSharpDemo\\37EntityFramework\\Program.cs",
+              "RelativeDocumentMoniker": "37EntityFramework\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\67 \u0026 49\\.NET\\CSharpDemo\\CSharpDemo\\CSharpDemo\\37EntityFramework\\Program.cs",
+              "RelativeToolTip": "37EntityFramework\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T11:08:58.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DemoDBContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\67 \u0026 49\\.NET\\CSharpDemo\\CSharpDemo\\CSharpDemo\\37EntityFramework\\Migrations\\DemoDBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "37EntityFramework\\Migrations\\DemoDBContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\67 \u0026 49\\.NET\\CSharpDemo\\CSharpDemo\\CSharpDemo\\37EntityFramework\\Migrations\\DemoDBContextModelSnapshot.cs",
+              "RelativeToolTip": "37EntityFramework\\Migrations\\DemoDBContextModelSnapshot.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T11:09:20.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\67 \u0026 49\\.NET\\CSharpDemo\\CSharpDemo\\CSharpDemo\\37EntityFramework\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "37EntityFramework\\Model\\Student.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\67 \u0026 49\\.NET\\CSharpDemo\\CSharpDemo\\CSharpDemo\\37EntityFramework\\Model\\Student.cs",
+              "RelativeToolTip": "37EntityFramework\\Model\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T11:09:11.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\67 \u0026 49\\.NET\\CSharpDemo\\CSharpDemo\\CSharpDemo\\39ThreadingDemo\\Program.cs",
+              "RelativeDocumentMoniker": "39ThreadingDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\67 \u0026 49\\.NET\\CSharpDemo\\CSharpDemo\\CSharpDemo\\39ThreadingDemo\\Program.cs",
+              "RelativeToolTip": "39ThreadingDemo\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwDoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T10:56:50.681Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

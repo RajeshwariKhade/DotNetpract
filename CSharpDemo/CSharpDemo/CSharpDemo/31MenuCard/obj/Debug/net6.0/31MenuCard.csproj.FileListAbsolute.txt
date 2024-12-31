@@ -1,0 +1,11 @@
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\31MenuCard\bin\Debug\net6.0\31MenuCard.deps.json
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\31MenuCard\bin\Debug\net6.0\31MenuCard.dll
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\31MenuCard\bin\Debug\net6.0\31MenuCard.pdb
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\31MenuCard\obj\Debug\net6.0\31MenuCard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\31MenuCard\obj\Debug\net6.0\31MenuCard.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\31MenuCard\obj\Debug\net6.0\31MenuCard.AssemblyInfo.cs
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\31MenuCard\obj\Debug\net6.0\31MenuCard.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\31MenuCard\obj\Debug\net6.0\31MenuCard.dll
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\31MenuCard\obj\Debug\net6.0\refint\31MenuCard.dll
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\31MenuCard\obj\Debug\net6.0\31MenuCard.pdb
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\31MenuCard\obj\Debug\net6.0\ref\31MenuCard.dll

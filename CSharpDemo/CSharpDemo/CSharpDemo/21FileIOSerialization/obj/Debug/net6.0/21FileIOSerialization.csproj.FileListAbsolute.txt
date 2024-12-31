@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\21FileIOSerialization\bin\Debug\net6.0\21FileIOSerialization.exe
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\21FileIOSerialization\bin\Debug\net6.0\21FileIOSerialization.deps.json
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\21FileIOSerialization\bin\Debug\net6.0\21FileIOSerialization.runtimeconfig.json
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\21FileIOSerialization\bin\Debug\net6.0\21FileIOSerialization.dll
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\21FileIOSerialization\bin\Debug\net6.0\21FileIOSerialization.pdb
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\21FileIOSerialization\obj\Debug\net6.0\21FileIOSerialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\21FileIOSerialization\obj\Debug\net6.0\21FileIOSerialization.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\21FileIOSerialization\obj\Debug\net6.0\21FileIOSerialization.AssemblyInfo.cs
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\21FileIOSerialization\obj\Debug\net6.0\21FileIOSerialization.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\21FileIOSerialization\obj\Debug\net6.0\21FileIOSerialization.dll
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\21FileIOSerialization\obj\Debug\net6.0\refint\21FileIOSerialization.dll
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\21FileIOSerialization\obj\Debug\net6.0\21FileIOSerialization.pdb
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\21FileIOSerialization\obj\Debug\net6.0\21FileIOSerialization.genruntimeconfig.cache
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\21FileIOSerialization\obj\Debug\net6.0\ref\21FileIOSerialization.dll

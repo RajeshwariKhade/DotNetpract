@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\05Inheritancedemo\bin\Debug\net6.0\05Inheritancedemo.exe
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\05Inheritancedemo\bin\Debug\net6.0\05Inheritancedemo.deps.json
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\05Inheritancedemo\bin\Debug\net6.0\05Inheritancedemo.runtimeconfig.json
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\05Inheritancedemo\bin\Debug\net6.0\05Inheritancedemo.dll
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\05Inheritancedemo\bin\Debug\net6.0\05Inheritancedemo.pdb
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\05Inheritancedemo\obj\Debug\net6.0\05Inheritancedemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\05Inheritancedemo\obj\Debug\net6.0\05Inheritancedemo.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\05Inheritancedemo\obj\Debug\net6.0\05Inheritancedemo.AssemblyInfo.cs
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\05Inheritancedemo\obj\Debug\net6.0\05Inheritancedemo.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\05Inheritancedemo\obj\Debug\net6.0\05Inheritancedemo.dll
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\05Inheritancedemo\obj\Debug\net6.0\refint\05Inheritancedemo.dll
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\05Inheritancedemo\obj\Debug\net6.0\05Inheritancedemo.pdb
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\05Inheritancedemo\obj\Debug\net6.0\05Inheritancedemo.genruntimeconfig.cache
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\05Inheritancedemo\obj\Debug\net6.0\ref\05Inheritancedemo.dll

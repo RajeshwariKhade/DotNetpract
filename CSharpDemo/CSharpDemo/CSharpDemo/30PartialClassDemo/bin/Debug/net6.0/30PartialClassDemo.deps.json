@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "30PartialClassDemo/1.0.0": {
+        "dependencies": {
+          "29C#FeaturePartialClass": "1.0.0"
+        },
+        "runtime": {
+          "30PartialClassDemo.dll": {}
+        }
+      },
+      "29C#FeaturePartialClass/1.0.0": {
+        "runtime": {
+          "29C#FeaturePartialClass.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "30PartialClassDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "29C#FeaturePartialClass/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

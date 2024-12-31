@@ -1,0 +1,11 @@
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\29C#FeaturePartialClass\bin\Debug\net6.0\29C#FeaturePartialClass.deps.json
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\29C#FeaturePartialClass\bin\Debug\net6.0\29C#FeaturePartialClass.dll
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\29C#FeaturePartialClass\bin\Debug\net6.0\29C#FeaturePartialClass.pdb
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\29C#FeaturePartialClass\obj\Debug\net6.0\29C#FeaturePartialClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\29C#FeaturePartialClass\obj\Debug\net6.0\29C#FeaturePartialClass.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\29C#FeaturePartialClass\obj\Debug\net6.0\29C#FeaturePartialClass.AssemblyInfo.cs
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\29C#FeaturePartialClass\obj\Debug\net6.0\29C#FeaturePartialClass.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\29C#FeaturePartialClass\obj\Debug\net6.0\29C#FeaturePartialClass.dll
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\29C#FeaturePartialClass\obj\Debug\net6.0\refint\29C#FeaturePartialClass.dll
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\29C#FeaturePartialClass\obj\Debug\net6.0\29C#FeaturePartialClass.pdb
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\29C#FeaturePartialClass\obj\Debug\net6.0\ref\29C#FeaturePartialClass.dll

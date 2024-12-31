@@ -1,0 +1,35 @@
+﻿@model _05CRUDDemo.Models.Employee
+
+@{
+    ViewData["Title"] = "AddEmp";
+}
+
+<h1>Add New Employee</h1>
+
+<h4>Employee</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form class="form-control" asp-controller="Home" asp-action="AddEmpToDB" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="EName" class="control-label">Name</label>
+                <input asp-for="EName" class="form-control" />
+                <span asp-validation-for="EName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EAddress" class="control-label">Address</label>
+                <input asp-for="EAddress" class="form-control" />
+                <span asp-validation-for="EAddress" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

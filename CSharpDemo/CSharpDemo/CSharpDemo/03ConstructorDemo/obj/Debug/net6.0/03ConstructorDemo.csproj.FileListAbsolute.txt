@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\03ConstructorDemo\obj\Debug\net6.0\03ConstructorDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\03ConstructorDemo\obj\Debug\net6.0\03ConstructorDemo.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\03ConstructorDemo\obj\Debug\net6.0\03ConstructorDemo.AssemblyInfo.cs
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\03ConstructorDemo\obj\Debug\net6.0\03ConstructorDemo.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\03ConstructorDemo\bin\Debug\net6.0\03ConstructorDemo.exe
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\03ConstructorDemo\bin\Debug\net6.0\03ConstructorDemo.deps.json
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\03ConstructorDemo\bin\Debug\net6.0\03ConstructorDemo.runtimeconfig.json
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\03ConstructorDemo\bin\Debug\net6.0\03ConstructorDemo.dll
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\03ConstructorDemo\bin\Debug\net6.0\03ConstructorDemo.pdb
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\03ConstructorDemo\obj\Debug\net6.0\03ConstructorDemo.dll
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\03ConstructorDemo\obj\Debug\net6.0\refint\03ConstructorDemo.dll
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\03ConstructorDemo\obj\Debug\net6.0\03ConstructorDemo.pdb
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\03ConstructorDemo\obj\Debug\net6.0\03ConstructorDemo.genruntimeconfig.cache
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\03ConstructorDemo\obj\Debug\net6.0\ref\03ConstructorDemo.dll

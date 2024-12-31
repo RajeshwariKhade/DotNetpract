@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\06ExceptionHandlingDemo\bin\Debug\net6.0\06ExceptionHandlingDemo.exe
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\06ExceptionHandlingDemo\bin\Debug\net6.0\06ExceptionHandlingDemo.deps.json
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\06ExceptionHandlingDemo\bin\Debug\net6.0\06ExceptionHandlingDemo.runtimeconfig.json
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\06ExceptionHandlingDemo\bin\Debug\net6.0\06ExceptionHandlingDemo.dll
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\06ExceptionHandlingDemo\bin\Debug\net6.0\06ExceptionHandlingDemo.pdb
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\06ExceptionHandlingDemo\obj\Debug\net6.0\06ExceptionHandlingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\06ExceptionHandlingDemo\obj\Debug\net6.0\06ExceptionHandlingDemo.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\06ExceptionHandlingDemo\obj\Debug\net6.0\06ExceptionHandlingDemo.AssemblyInfo.cs
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\06ExceptionHandlingDemo\obj\Debug\net6.0\06ExceptionHandlingDemo.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\06ExceptionHandlingDemo\obj\Debug\net6.0\06ExceptionHandlingDemo.dll
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\06ExceptionHandlingDemo\obj\Debug\net6.0\refint\06ExceptionHandlingDemo.dll
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\06ExceptionHandlingDemo\obj\Debug\net6.0\06ExceptionHandlingDemo.pdb
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\06ExceptionHandlingDemo\obj\Debug\net6.0\06ExceptionHandlingDemo.genruntimeconfig.cache
+C:\Users\IET\Desktop\67 & 49\.NET\CSharpDemo\CSharpDemo\CSharpDemo\06ExceptionHandlingDemo\obj\Debug\net6.0\ref\06ExceptionHandlingDemo.dll
